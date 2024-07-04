@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/163.33310ed7.chunk.js","mappings":"wJAEA,MAIA,EAJkBA,KACTC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,a","sources":["components/children2/index.jsx"],"sourcesContent":["import \"../../test.css\";\r\n\r\nconst Children2 = () => {\r\n  return <div>Children2</div>;\r\n};\r\n\r\nexport default Children2;\r\n"],"names":["Children2","_jsx","children"],"sourceRoot":""}
